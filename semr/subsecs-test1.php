@@ -1,4 +1,6 @@
 <!-- -->
+<?php echo "Today is " . date("m/d/y ") . "<br>"; ?>
+
  <?php  if ($_REQUEST[urlsubsec] == 'subsec-page01') { // 
     
 	include('includes/emr-content/subsec-page01.html');  }
