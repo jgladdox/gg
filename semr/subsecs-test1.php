@@ -1,5 +1,5 @@
 <!-- -->
-1
+<p>12</p>
 <?php echo "Today is " . date("m/d/y ") . "<br>"; ?>
 
  <?php  if ($_REQUEST[urlsubsec] == 'subsec-page01') { // 
